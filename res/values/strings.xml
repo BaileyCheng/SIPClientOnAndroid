@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WatcherClient</string>
+    <string name="menu_register">Register</string>
+    <string name="username">Username</string>
+    <string name="presenceServer">PresenceServer</string>
+    <string name="register">Register</string>
+    <string name="lat">Lat</string>
+    <string name="lng">Lng</string>
+</resources>

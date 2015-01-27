@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="concurrent.jar"/>
+	<classpathentry kind="lib" path="JainSipApi1.2.jar"/>
+	<classpathentry kind="lib" path="JainSipRi1.2.jar"/>
+	<classpathentry kind="lib" path="log4j-1.2.8.jar"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
